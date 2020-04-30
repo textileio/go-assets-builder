@@ -1,0 +1,6 @@
+github.com/jessevdk/go-flags v1.4.1-0.20181221193153-c0795c8afcf4 h1:xKkUL6QBojwguhKKetf1SocCAKqc6W7S/mGm9xEGllo=
+github.com/jessevdk/go-flags v1.4.1-0.20181221193153-c0795c8afcf4/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
+github.com/textileio/go-assets v0.0.0-20160921144138-4f4301a06e15 h1:S/olK+DDCg1+fbjDWPxMYAI5czlnYgNUo4smNh5wJ2g=
+github.com/textileio/go-assets v0.0.0-20160921144138-4f4301a06e15/go.mod h1:8IFHF+OBGMs3teXATzppqsfthw/6YnH+hv7yTY5+Zt4=
+github.com/textileio/go-assets v0.0.0-20200430183955-e5e8952c1223 h1:2cT6SSbnEeTSY26Ql86AuCFOB84+DgLxa3Ni9NCVRV0=
+github.com/textileio/go-assets v0.0.0-20200430183955-e5e8952c1223/go.mod h1:j7aKMh8sbbtvttp7V7yCOkHW/pfRtIM/6h+8qEDsLyI=

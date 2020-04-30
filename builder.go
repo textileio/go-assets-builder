@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/jessevdk/go-assets"
-	"github.com/jessevdk/go-flags"
 	"os"
+
+	"github.com/jessevdk/go-flags"
+	"github.com/textileio/go-assets"
 )
 
 func main() {
